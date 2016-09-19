@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: let the = fun ``begin`` -> '!'
+title: kostassoid @ dev
 
 # Short description of your site
 description: distributed systems, big data, devops and more
@@ -77,7 +77,7 @@ url-pretty: "kostassoid.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "kostassoid-dev"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
